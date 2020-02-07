@@ -12,6 +12,7 @@
     "issues": "https://github.com/MrJoshLab/laravel-phantomjs/issues",
     "source": "https://github.com/MrJoshLab/laravel-phantomjs"
   },
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Alireza Josheghani",
